@@ -1,5 +1,5 @@
 # Administrador de citas de veterinaria
-Este es un administrador de citas de pacientes para una veterinaria que utiliza IndexDB con base de datos para la persistencia de los datos de los pacientes.
+Este es un administrador de citas de pacientes para una veterinaria que utiliza IndexDB como base de datos para la persistencia de los datos de los pacientes.
 
 ## Screenshots
 Podemos agregar cuantas citas sean necesarias 
